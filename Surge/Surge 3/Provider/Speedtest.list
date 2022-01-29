@@ -1,0 +1,21 @@
+# > Fast
+DOMAIN-SUFFIX,fast.com
+
+# > iStat Menus
+DOMAIN-SUFFIX,ip.istatmenus.app
+
+# > Speedtest
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ip.cn
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipaddress.com
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,speedsmart.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ooklaserver.net
+PROCESS-NAME,Speedtest
+USER-AGENT,Speedtest*
+
+# > Speed Test by Cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com

@@ -1,0 +1,26 @@
+// Netmarble Future Fight / Future Revolution
+DOMAIN-SUFFIX,netmarble.com.cn
+
+# > Blizzard
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+USER-AGENT,wowcompanion*
+USER-AGENT,hearthstone*
+USER-AGENT,Blizzard*
+
+# > Sony
+DOMAIN,us.np.stun.playstation.net
+DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-SUFFIX,playstation.com.hk
+
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+USER-AGENT,RemotePlay*
+
+# > Pokemon
+USER-AGENT,pokemonquest*

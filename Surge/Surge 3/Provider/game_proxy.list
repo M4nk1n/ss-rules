@@ -1,0 +1,10 @@
+// Netmarble Future Fight / Future Revolution
+DOMAIN-SUFFIX,netmarble.com
+
+// Nintendo
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+
+# > PlatStation Games
+DOMAIN,kr.actual.battle.net
+DOMAIN,diablo2.blizzard.com
